@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "South Korea", "Japan", "Thailand"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The Amazon River flows through which continent?",
+        "options": ["Africa", "Asia", "South America", "Australia"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Mount Everest is located in which mountain range?",
+        "options": ["Andes", "Alps", "Himalayas", "Rockies"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these is a Scandinavian country?",
+        "options": ["Spain", "Sweden", "Switzerland", "Scotland"],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "options": ["Sahara", "Arabian", "Gobi", "Kalahari"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The currency of Germany is:",
+        "options": ["Euro", "Pound", "Dollar", "Yen"],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How many time zones does Russia have?",
+        "options": ["6", "8", "11", "24"],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which country is shaped like a boot?",
+        "options": ["Greece", "Portugal", "Italy", "France"],
+        "correctAnswer": 2
+    }
+]
